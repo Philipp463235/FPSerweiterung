@@ -1,0 +1,6 @@
+Starting server on port 5556
+C:\Users\Philipp\Desktop\Fps\FPS-Szenario-Erweiterung\CBRS\CBRS.prj
+Loading file C:\Users\Philipp\Desktop\Fps\FPS-Szenario-Erweiterung\CBRS\CBRS.prj
+Imported 101 instances.
+Address already in use: NET_Bind
+Save project to file C:\Users\Philipp\Desktop\Fps\FPS-Szenario-Erweiterung\CBRS\CBRS.prj
